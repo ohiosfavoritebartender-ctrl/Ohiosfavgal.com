@@ -1,0 +1,21 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if using npm)
+node_modules/
+package-lock.json
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
