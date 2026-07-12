@@ -1,0 +1,5 @@
+.github/
+  workflows/
+    blank.yml     Basic GitHub Actions CI template (currently just echoes "Hello, world!")
+README.md         Contains only the repository git clone URL
+Ohiosfavgal       Duplicate of README (same content)
