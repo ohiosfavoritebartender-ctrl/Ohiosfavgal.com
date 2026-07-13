@@ -1,4 +1,4 @@
-# Ohiosfavgal.com
+# Ohiosfav.com
 
 Welcome to Ohio's Favorite Gal - a Node.js application.
 
@@ -25,8 +25,8 @@ This is a web application built with Node.js and deployed on Railway with a cust
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ohiosfavoritebartender-ctrl/Ohiosfavgal.com.git
-cd Ohiosfavgal.com
+git clone https://www.perplexity.ai/computer/a/b458d350-2a97-47c1-8129-5ad939c84973
+cd Ohiosfav.com
 ```
 
 2. Install dependencies:
